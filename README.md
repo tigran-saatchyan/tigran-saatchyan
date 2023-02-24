@@ -35,4 +35,4 @@ on my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-ba
 Thanks for taking the time to check out my Python repository! I look forward to 
 working with you.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigran-saatchyan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigran-saatchyan&theme=transparent)
