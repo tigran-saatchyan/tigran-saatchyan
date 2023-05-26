@@ -1,8 +1,8 @@
 # Hi there 🖖 [![wakatime](https://wakatime.com/badge/user/e4fe57b2-b861-48ec-8324-667fdf5746a9.svg)](https://wakatime.com/@e4fe57b2-b861-48ec-8324-667fdf5746a9)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigran-saatchyan/tigran-saatchyan/master/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tigran-saatchyan/tigran-saatchyan/master/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigran-saatchyan/tigran-saatchyan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tigran-saatchyan/tigran-saatchyan/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
