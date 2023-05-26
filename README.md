@@ -1,4 +1,4 @@
-# Hi there 🖖
+# Hi there 🖖 [![wakatime](https://wakatime.com/badge/user/e4fe57b2-b861-48ec-8324-667fdf5746a9.svg)](https://wakatime.com/@e4fe57b2-b861-48ec-8324-667fdf5746a9)
 
 ## Introduction
 
@@ -34,5 +34,6 @@ on my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-ba
 
 Thanks for taking the time to check out my Python repository! I look forward to 
 working with you.
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigran-saatchyan&theme=transparent)
