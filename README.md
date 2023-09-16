@@ -44,7 +44,7 @@ Thanks for taking the time to check out my Python repository! I look forward to
 working with you.
 
 
-<table center>
+<table>
   <tr>
     <td>
         <a href="#">
@@ -52,8 +52,8 @@ working with you.
     </a>
     </td>
     <td>
-      ![Codewars](https://github.r2v.ch/codewars?user=PythonisTiko&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-    </a><br>
+
+  ![Codewars](https://github.r2v.ch/codewars?user=PythonisTiko&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
     </td>
   </tr>
 </table>
