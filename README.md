@@ -52,8 +52,7 @@ working with you.
     </a>
     </td>
     <td>
-         <a href="https://www.codewars.com/users/PythonisTiko">
-      <img src="https://www.codewars.com/users/PythonisTiko/badges/large" alt="codewars">
+      ![Codewars](https://github.r2v.ch/codewars?user=PythonisTiko&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
     </a><br>
     </td>
   </tr>
