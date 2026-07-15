@@ -47,12 +47,3 @@ If you have any questions or comments, feel free to contact me. I am always open
 
 Thanks for taking the time to check out my repository! I look forward to working with you.
 
-
-<table>
-  <tr>
-    <td>
-
-  ![Codewars](https://github.r2v.ch/codewars?user=PythonisTiko&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-    </td>
-  </tr>
-</table>
